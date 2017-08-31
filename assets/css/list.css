@@ -1,0 +1,155 @@
+a {
+  text-decoration: none; }
+
+header {
+  width: 10rem;
+  height: 5.37037rem;
+  background-image: url(../image/list/1.jpg);
+  background-size: 100%; }
+  header .search {
+    width: 8.33333rem;
+    height: 0.7963rem;
+    padding-left: 0.33333rem;
+    border: 0.02778rem solid #ddd;
+    margin-top: 0.33333rem;
+    margin-left: 0.55556rem;
+    border-radius: 0.0463rem; }
+    header .search .icon-chazhao {
+      font-size: 0.44444rem;
+      margin-right: 0.09259rem;
+      margin-top: 0.13889rem; }
+    header .search input {
+      width: 6.48148rem;
+      height: 0.77778rem;
+      border: none;
+      font-size: 0.33333rem; }
+
+/*===============================*/
+.nav {
+  margin-top: 0.33333rem;
+  width: 9.44444rem;
+  height: 3.7037rem;
+  padding-left: 0.55556rem;
+  background: whitesmoke; }
+  .nav .biaoti {
+    color: #9C9FA1;
+    font-size: 0.37037rem; }
+  .nav .ul1 {
+    display: flex;
+    margin-top: 0.24074rem;
+    width: 9.44444rem;
+    height: 2.88889rem;
+    flex-wrap: wrap; }
+    .nav .ul1 .li1 {
+      width: 30%;
+      height: 1.11111rem;
+      text-align: center;
+      line-height: 1.11111rem;
+      margin-right: 0.11111rem;
+      border: 0.02778rem solid #e5e5e5;
+      border-radius: 0.09259rem;
+      background: #fff; }
+
+.content {
+  margin-top: 0.33333rem;
+  width: 9.44444rem;
+  height: 27.77778rem;
+  padding-left: 0.55556rem;
+  border-top: 0.02778rem solid #e5e5e5;
+  border-bottom: 0.02778rem solid #e5e5e5; }
+  .content .content1 {
+    display: flex;
+    width: 10rem;
+    height: 1.22222rem; }
+    .content .content1 .div {
+      width: 25%;
+      height: 1.22222rem;
+      line-height: 1.22222rem; }
+      .content .content1 .div span {
+        font-size: 0.44444rem;
+        color: #333; }
+      .content .content1 .div .icon-sanjiaoxia {
+        font-size: 0.37037rem;
+        color: #ddd; }
+  .content .content2 {
+    width: 9.44444rem;
+    height: 1.38889rem;
+    border-top: 0.02778rem solid #e5e5e5;
+    border-bottom: 0.02778rem solid #e5e5e5;
+    line-height: 1.38889rem; }
+    .content .content2 span {
+      font-size: 0.38889rem;
+      color: #333; }
+    .content .content2 a {
+      float: right;
+      margin-top: 0.33333rem;
+      border: 0.02778rem solid #00A75B;
+      color: #00A75B;
+      height: 0.66667rem;
+      padding: 0 0.33333rem;
+      line-height: 0.66667rem;
+      border-radius: 0.09259rem; }
+    .content .content2 .icon-you-copy-copy {
+      margin: 0 0.14815rem;
+      float: right;
+      font-size: 0.33333rem; }
+
+.content3 li {
+  width: 9.44444rem;
+  height: 3.42593rem;
+  padding: 0.74074rem 0.74074rem 0.74074rem 0;
+  border-bottom: 0.0463rem solid #e5e5e5;
+  /*.textbottom{
+				float:left;
+				margin-top:rem(100px);
+				padding:0 rem(24px) rem(12px) rem(24px);
+				width:rem(914px);
+				height:rem(78px);
+				color:#9c9fa1;
+				font-size:rem(48px);
+			}*/ }
+  .content3 li .img {
+    float: left;
+    width: 3rem;
+    height: 2.28704rem; }
+    .content3 li .img img {
+      width: 3rem;
+      height: 2.28704rem; }
+  .content3 li .text {
+    float: left;
+    padding-left: 0.74074rem;
+    width: 5.33333rem;
+    height: 2.85185rem; }
+    .content3 li .text h4 {
+      color: #394043;
+      font-size: 0.44444rem;
+      font-weight: 400;
+      margin-bottom: 0.2rem; }
+    .content3 li .text h5 {
+      margin-bottom: 0.2rem;
+      color: #8b8b8b;
+      font-size: 0.37037rem; }
+    .content3 li .text h6 {
+      margin-bottom: 0.2rem;
+      width: 5.33333rem;
+      height: 0.41667rem; }
+      .content3 li .text h6 .wan {
+        margin-top: 0.13889rem;
+        color: #fa5741;
+        font-size: 0.38889rem;
+        font-weight: 700; }
+      .content3 li .text h6 .ping {
+        color: #9c9fa1;
+        font-size: 0.33333rem; }
+    .content3 li .text h2 {
+      margin-top: 0.27778rem;
+      width: 5.33333rem;
+      height: 0.44444rem; }
+      .content3 li .text h2 .kan {
+        color: #33be85;
+        font-size: 0.33333rem;
+        background: rgba(51, 190, 133, 0.15); }
+      .content3 li .text h2 .ti {
+        color: #7bbdff;
+        font-size: 0.33333rem;
+        background: rgba(123, 189, 255, 0.15); }
